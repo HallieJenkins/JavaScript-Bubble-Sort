@@ -11,5 +11,5 @@ The JavaScript program will be run using `node.js` which is available from https
 From the command line:
 
 ```
-node bubblesort
+node BubbleSort
 ```
