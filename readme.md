@@ -1,4 +1,4 @@
-# Assignment 1 - JavaScript
+# JavaScript Bubble Sort
 
 The program takes the name of a comma-delimited text file (CSV) as input on the command line, sorts the file by the first field and prints the file.
 
@@ -11,5 +11,5 @@ The JavaScript program will be run using `node.js` which is available from https
 From the command line:
 
 ```
-node asignment1
+node bubblesort
 ```
