@@ -3,7 +3,7 @@ var fileReader = require('fs')
 
 
 // Use fs.readFile() method to read the file
-fileReader.readFile('Hw1_SampleFile.txt', function(err, data){
+fileReader.readFile('SampleFile.txt', function(err, data){
     var fileArr = data.toString().split('\n')
     console.log(`Before Sort: ${fileArr} \n`)
     var temp;
